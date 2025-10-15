@@ -8,7 +8,7 @@ class BSTNode{
         right = null;
         data = n;
     }
-}
+ }
 public class BST {
     static BSTNode root;
     public BST(){
