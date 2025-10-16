@@ -122,5 +122,6 @@ public class BST {
         bst.delete(55);
         System.out.println("Element found :"+ bst.search(80));
         System.out.println("Is Tree Empty? "+bst.isEmpty());
+        
     }
 }
